@@ -1,0 +1,956 @@
+GIMP Palette
+Name: XKCD
+#
+# Converted by: gus3
+# From: Rune Grimstad's C# source
+# http://blog.rag.no/post/Using-the-XKCD-color-survey-for-something-useful.aspx
+#
+172 194 217 CloudyBlue
+ 86 174  87 DarkPastelGreen
+178 153 110 Dust
+168 255   4 ElectricLime
+105 216  79 FreshGreen
+137  69 133 LightEggplant
+112 178  63 NastyGreen
+212 255 255 ReallyLightBlue
+101 171 124 Tea
+149  46 143 WarmPurple
+252 252 129 YellowishTan
+165 163 145 Cement
+ 56 128   4 DarkGrassGreen
+ 76 144 133 DustyTeal
+ 94 155 138 GreyTeal
+239 180  53 MacaroniAndCheese
+217 155 130 PinkishTan
+ 10  95  56 Spruce
+ 12   6 247 StrongBlue
+ 97 222  42 ToxicGreen
+ 55 120 191 WindowsBlue
+ 34  66 199 BlueBlue
+ 83  60 198 BlueWithAHintOfPurple
+155 181  60 Booger
+  5 255 166 BrightSeaGreen
+ 31  99  87 DarkGreenBlue
+  1 115 116 DeepTurquoise
+ 12 181 119 GreenTeal
+255   7 137 StrongPink
+175 168 139 Bland
+  8 120 127 DeepAqua
+221 133 215 LavenderPink
+166 200 117 LightMossGreen
+167 255 181 LightSeafoamGreen
+194 183   9 OliveYellow
+231 142 165 PigPink
+150 110 189 DeepLilac
+204 173  96 Desert
+172 134 168 DustyLavender
+148 126 148 PurpleyGrey
+152  63 178 Purply
+255  99 233 CandyPink
+178 251 165 LightPastelGreen
+ 99 179 101 BoringGreen
+142 229  63 KiwiGreen
+183 225 161 LightGreyGreen
+255 111  82 OrangePink
+189 248 163 TeaGreen
+211 182 131 VeryLightBrown
+255 252 196 EggShell
+ 67   5  65 EggplantPurple
+255 178 208 PowderPink
+153 117 112 ReddishGrey
+173 144  13 BabyShitBrown
+196 142 253 Liliac
+ 80 123 156 StormyBlue
+125 113   3 UglyBrown
+255 253 120 Custard
+218  70 125 DarkishPink
+ 65   2   0 DeepBrown
+201 209 121 GreenishBeige
+255 250 134 Manilla
+ 86 132 174 OffBlue
+107 124 133 BattleshipGrey
+111 108  10 BrownyGreen
+126  64 113 Bruise
+  0 147  55 KelleyGreen
+208 228  41 SicklyYellow
+255 249  23 SunnyYellow
+ 29  93 236 Azul
+  5  73   7 Darkgreen
+181 206   8 Green_Yellow
+143 182 123 Lichen
+200 255 176 LightLightGreen
+253 222 108 PaleGold
+255 223  34 SunYellow
+169 190 112 TanGreen
+104  50 227 Burple
+253 177  71 Butterscotch
+199 172 125 Toupe
+255 243 154 DarkCream
+133  14   4 IndianRed
+239 192 254 LightLavendar
+ 64 253  20 PoisonGreen
+182 196   6 BabyPukeGreen
+157 255   0 BrightYellowGreen
+ 60  65  66 CharcoalGrey
+242 171  21 Squash
+172  79   6 Cinnamon
+196 254 130 LightPeaGreen
+ 44 250  31 RadioactiveGreen
+154  98   0 RawSienna
+202 155 247 BabyPurple
+135  95  66 Cocoa
+ 58  46 254 LightRoyalBlue
+253 141  73 Orangeish
+139  49   3 RustBrown
+203 165  96 SandBrown
+105 131  57 Swamp
+ 12 220 115 TealishGreen
+183  82   3 BurntSiena
+127 143  78 Camo
+ 38  83 141 DuskBlue
+ 99 169  80 Fern
+200 127 137 OldRose
+177 252 153 PaleLightGreen
+255 154 138 PeachyPink
+246 104 142 RosyPink
+118 253 168 LightBluishGreen
+ 83 254  92 LightBrightGreen
+ 78 253  84 LightNeonGreen
+160 254 191 LightSeafoam
+123 242 218 TiffanyBlue
+188 245 166 WashedOutGreen
+202 107   2 BrownyOrange
+ 16 122 176 NiceBlue
+ 33  56 171 Sapphire
+113 159 145 GreyishTeal
+253 185  21 OrangeyYellow
+254 252 175 Parchment
+252 246 121 Straw
+ 29   2   0 VeryDarkBrown
+203 104  67 Terracota
+ 49 102 138 UglyBlue
+ 36 122 253 ClearBlue
+255 255 182 Creme
+144 253 169 FoamGreen
+134 161 125 Grey_Green
+253 220  92 LightGold
+120 209 182 SeafoamBlue
+ 19 187 175 Topaz
+251  95 252 VioletPink
+ 32 249 134 Wintergreen
+255 227 110 YellowTan
+157   7  89 DarkFuchsia
+ 58  24 177 IndigoBlue
+194 255 137 LightYellowishGreen
+215 103 173 PaleMagenta
+114   0  88 RichPurple
+255 218   3 SunflowerYellow
+  1 192 141 Green_Blue
+172 116  52 Leather
+  1  70   0 RacingGreen
+153   0 250 VividPurple
+  2   6 111 DarkRoyalBlue
+142 118  24 Hazel
+209 118 143 MutedPink
+150 180   3 BoogerGreen
+253 255  99 Canary
+149 163 166 CoolGrey
+127 104  78 DarkTaupe
+117  25 115 DarkishPurple
+  8 148   4 TrueGreen
+255  97  99 CoralPink
+ 89 133  86 DarkSage
+ 33  71  97 DarkSlateBlue
+ 60 115 168 FlatBlue
+186 158 136 Mushroom
+  2  27 249 RichBlue
+115  74 101 DirtyPurple
+ 35 196 139 Greenblue
+143 174  34 IckyGreen
+230 242 162 LightKhaki
+ 75  87 219 WarmBlue
+217   1 102 DarkHotPink
+  1  84 130 DeepSeaBlue
+157   2  22 Carmine
+114 143   2 DarkYellowGreen
+255 229 173 PalePeach
+ 78   5  80 PlumPurple
+249 188   8 GoldenRod
+255   7  58 NeonRed
+199 121 134 OldPink
+214 255 254 VeryPaleBlue
+254  75   3 BloodOrange
+253  89  86 Grapefruit
+252 225 102 SandYellow
+178 113  61 ClayBrown
+ 31  59  77 DarkBlueGrey
+105 157  76 FlatGreen
+ 86 252 162 LightGreenBlue
+251  85 129 WarmPink
+ 62 130 252 DodgerBlue
+160 191  22 GrossGreen
+214 255 250 Ice
+ 79 115 142 MetallicBlue
+255 177 154 PaleSalmon
+ 92 139  21 SapGreen
+ 84 172 104 Algae
+137 160 176 BlueyGrey
+126 160 122 GreenyGrey
+ 27 252   6 HighlighterGreen
+202 255 251 LightLightBlue
+182 255 187 LightMint
+167  94   9 RawUmber
+ 21  46 255 VividBlue
+141  94 183 DeepLavender
+ 95 158 143 DullTeal
+ 99 247 180 LightGreenishBlue
+ 96 102   2 MudGreen
+252 134 170 Pinky
+140   0  52 RedWine
+117 128   0 ShitGreen
+171 126  76 TanBrown
+  3   7 100 Darkblue
+254 134 164 Rosa
+213  23  78 Lipstick
+254 208 252 PaleMauve
+104   0  24 Claret
+254 223   8 Dandelion
+254  66  15 Orangered
+111 124   0 PoopGreen
+202   1  71 Ruby
+ 27  36  49 Dark
+  0 251 176 GreenishTurquoise
+219  88  86 PastelRed
+221 214  24 PissYellow
+ 65 253 254 BrightCyan
+207  82  78 DarkCoral
+ 33 195 111 AlgaeGreen
+169   3   8 DarkishRed
+110  16   5 ReddyBrown
+254 130 140 BlushPink
+ 75  97  19 CamouflageGreen
+ 77 164   9 LawnGreen
+190 174 138 Putty
+  3  57 248 VibrantBlue
+168 143  89 DarkSand
+ 93  33 208 Purple_Blue
+254 178   9 Saffron
+ 78  81 139 Twilight
+150  78   2 WarmBrown
+133 163 178 Bluegrey
+255 105 175 BubbleGumPink
+195 251 244 DuckEggBlue
+ 42 254 183 GreenishCyan
+  0  95 106 Petrol
+ 12  23 147 Royal
+255 255 129 Butter
+240 131  58 DustyOrange
+241 243  63 OffYellow
+177 210 123 PaleOliveGreen
+252 130  74 Orangish
+113 170  52 Leaf
+183 201 226 LightBlueGrey
+ 75   1   1 DriedBlood
+165  82 230 LightishPurple
+175  47  13 RustyRed
+139 136 248 LavenderBlue
+154 247 100 LightGrassGreen
+166 251 178 LightMintGreen
+255 197  18 Sunflower
+117   8  81 Velvet
+193  74   9 BrickOrange
+254  47  74 LightishRed
+  2   3 226 PureBlue
+ 10  67 122 TwilightBlue
+165   0  85 VioletRed
+174 139  12 YellowyBrown
+253 121 143 Carnation
+191 172   5 MuddyYellow
+ 62 175 118 DarkSeafoamGreen
+199  71 103 DeepRose
+185  72  78 DustyRed
+100 125 142 Grey_Blue
+191 254  40 LemonLime
+215  37 222 Purple_Pink
+178 151   5 BrownYellow
+103  58  63 PurpleBrown
+168 125 194 Wisteria
+250 254  75 BananaYellow
+192   2  47 LipstickRed
+ 14 135 204 WaterBlue
+141 132 104 BrownGrey
+173   3 222 VibrantPurple
+140 255 158 BabyGreen
+148 172   2 BarfGreen
+196 255 247 EggshellBlue
+253 238 115 SandyYellow
+ 51 184 100 CoolGreen
+255 249 208 Pale
+117 141 163 Blue_Grey
+245   4 201 HotMagenta
+119 161 181 Greyblue
+135  86 228 Purpley
+136 151  23 BabyShitGreen
+194 126 121 BrownishPink
+  1 115 113 DarkAquamarine
+159 131   3 Diarrhea
+247 213  96 LightMustard
+189 246 254 PaleSkyBlue
+117 184  79 TurtleGreen
+156 187   4 BrightOlive
+ 41  70  91 DarkGreyBlue
+105  96   6 GreenyBrown
+173 248   2 LemonGreen
+193 198 252 LightPeriwinkle
+ 53 173 107 SeaweedGreen
+255 253  55 SunshineYellow
+164  66 160 UglyPurple
+243  97 150 MediumPink
+148 119   6 PukeBrown
+255 244 242 VeryLightPink
+ 30 145 103 Viridian
+181 195   6 Bile
+254 255 127 FadedYellow
+207 253 188 VeryPaleGreen
+ 10 221   8 VibrantGreen
+135 253   5 BrightLime
+ 30 248 118 Spearmint
+123 253 199 LightAquamarine
+188 236 172 LightSage
+187 249  15 Yellowgreen
+171 144   4 BabyPoo
+ 31 181 122 DarkSeafoam
+  0  85  90 DeepTeal
+164 132 172 Heather
+196  85   8 RustOrange
+ 63 130 157 DirtyBlue
+ 84 141  68 FernGreen
+201  94 251 BrightLilac
+ 58 229 127 WeirdGreen
+  1 103 149 PeacockBlue
+135 169  34 AvocadoGreen
+240 148  77 FadedOrange
+ 93  20  81 GrapePurple
+ 37 255  41 HotGreen
+208 254  29 LimeYellow
+255 166  43 Mango
+  1 180  76 Shamrock
+255 108 181 Bubblegum
+107  66  71 PurplishBrown
+199 193  12 VomitYellow
+183 255 250 PaleCyan
+174 255 110 KeyLime
+236  45   1 TomatoRed
+118 255 123 Lightgreen
+115   0  57 Merlot
+  4   3  72 NightBlue
+223  78 200 PurpleishPink
+110 203  60 Apple
+143 152   5 BabyPoopGreen
+ 94 220  31 GreenApple
+217  79 245 Heliotrope
+200 253  61 Yellow_Green
+  7  13  13 AlmostBlack
+ 73 132 184 CoolBlue
+ 81 183  59 LeafyGreen
+172 126   4 MustardBrown
+ 78  84 129 Dusk
+135 110  75 DullBrown
+ 88 188   8 FrogGreen
+ 47 239  16 VividGreen
+ 45 254  84 BrightLightGreen
+ 10 255   2 FluroGreen
+156 239  67 Kiwi
+ 24 209 123 Seaweed
+ 53  83  10 NavyGreen
+ 24   5 219 UltramarineBlue
+ 98  88 196 Iris
+255 150  79 PastelOrange
+255 171  15 YellowishOrange
+143 140 231 Perrywinkle
+ 36 188 168 Tealish
+ 63   1  44 DarkPlum
+203 248  95 Pear
+255 114  76 PinkishOrange
+ 40   1  55 MidnightPurple
+179 111 246 LightUrple
+ 72 192 114 DarkMint
+188 203 122 GreenishTan
+168  65  91 LightBurgundy
+  6 177 196 TurquoiseBlue
+205 117 132 UglyPink
+241 218 122 Sandy
+255   4 144 ElectricPink
+128  91 135 MutedPurple
+ 80 167  71 MidGreen
+168 164 149 Greyish
+207 255   4 NeonYellow
+255 255 126 Banana
+255 127 167 CarnationPink
+239  64  38 Tomato
+ 60 153 146 Sea
+136 104   6 MuddyBrown
+  4 244 137 TurquoiseGreen
+254 246 158 Buff
+207 175 123 Fawn
+ 59 113 159 MutedBlue
+253 193 197 PaleRose
+ 32 192 115 DarkMintGreen
+155  95 192 Amethyst
+ 15 155 142 Blue_Green
+116  40   2 Chestnut
+157 185  44 SickGreen
+164 191  32 Pea
+205  89   9 RustyOrange
+173 165 135 Stone
+190   1  60 RoseRed
+184 255 235 PaleAqua
+220  77   1 DeepOrange
+162 101  62 Earth
+ 99 139  39 MossyGreen
+ 65 156   3 GrassyGreen
+177 255 101 PaleLimeGreen
+157 188 212 LightGreyBlue
+253 253 254 PaleGrey
+119 171  86 Asparagus
+ 70  65 150 Blueberry
+153   1  71 PurpleRed
+190 253 115 PaleLime
+ 50 191 132 GreenishTeal
+175 111   9 Caramel
+160   2  92 DeepMagenta
+255 216 177 LightPeach
+127  78  30 MilkChocolate
+191 155  12 Ocher
+107 163  83 OffGreen
+240 117 230 PurplyPink
+123 200 246 Lightblue
+ 71  95 148 DuskyBlue
+245 191   3 Golden
+255 254 182 LightBeige
+255 253 116 ButterYellow
+137  91 123 DuskyPurple
+ 67 107 173 FrenchBlue
+208 193   1 UglyYellow
+198 248   8 GreenyYellow
+244  54   5 OrangishRed
+  2 193  77 ShamrockGreen
+178  95   3 OrangishBrown
+ 42 126  25 TreeGreen
+ 73   6  72 DeepViolet
+ 83  98 103 Gunmetal
+ 90   6 239 Blue_Purple
+207   2  52 Cherry
+196 166  97 SandyBrown
+151 138 132 WarmGrey
+ 31   9  84 DarkIndigo
+  3   1  45 Midnight
+ 43 177 121 BlueyGreen
+195 144 155 GreyPink
+166 111 181 SoftPurple
+119   0   1 Blood
+146  43   5 BrownRed
+125 127 124 MediumGrey
+153  15  75 Berry
+143 115   3 Poo
+200  60 185 PurpleyPink
+254 169 147 LightSalmon
+172 187  13 Snot
+192 113 254 EasterPurple
+204 253 127 LightYellowGreen
+  0   2  46 DarkNavyBlue
+130 131  68 Drab
+255 197 203 LightRose
+171  18  57 Rouge
+176   5  75 PurplishRed
+153 204   4 SlimeGreen
+147 124   0 BabyPoop
+  1 149  41 IrishGreen
+239  29 231 Pink_Purple
+  0   4  53 DarkNavy
+ 66 179 149 GreenyBlue
+157  87 131 LightPlum
+200 172 169 PinkishGrey
+200 118   6 DirtyOrange
+170  39   4 RustRed
+228 203 255 PaleLilac
+250  66  36 OrangeyRed
+  8   4 249 PrimaryBlue
+ 92 178   0 KermitGreen
+118  66  78 BrownishPurple
+108 122  14 MurkyGreen
+251 221 126 Wheat
+ 42   1  52 VeryDarkPurple
+  4  74   5 BottleGreen
+253  70  89 Watermelon
+ 13 117 248 DeepSkyBlue
+254   0   2 FireEngineRed
+203 157   6 YellowOchre
+251 125   7 PumpkinOrange
+185 204 129 PaleOlive
+237 200 255 LightLilac
+ 97 225  96 LightishGreen
+138 184 254 CarolinaBlue
+146  10  78 Mulberry
+254   2 162 ShockingPink
+154  48   1 Auburn
+101 254   8 BrightLimeGreen
+190 253 183 Celadon
+177 114  97 PinkishBrown
+136  95   1 PooBrown
+  2 204 254 BrightSkyBlue
+193 253 149 Celery
+131 101  57 DirtBrown
+251  41  67 Strawberry
+132 183   1 DarkLime
+182  99  37 Copper
+127  81  18 MediumBrown
+ 95 160  82 MutedGreen
+109 237 253 RobinSEgg
+ 11 249 234 BrightAqua
+199  96 255 BrightLavender
+255 255 203 Ivory
+246 206 252 VeryLightPurple
+ 21  80 132 LightNavy
+245   5  79 PinkRed
+100  84   3 OliveBrown
+122  89   1 PoopBrown
+168 181   4 MustardGreen
+ 61 153 115 OceanGreen
+  0   1  51 VeryDarkBlue
+118 169 115 DustyGreen
+ 46  90 136 LightNavyBlue
+ 11 247 125 MintyGreen
+189 108  72 Adobe
+172  29 184 Barney
+ 43 175 106 JadeGreen
+ 38 247 253 BrightLightBlue
+174 253 108 LightLime
+155 143  85 DarkKhaki
+255 173   1 OrangeYellow
+198 156   4 Ocre
+244 208  84 Maize
+222 157 172 FadedPink
+  5  72  13 BritishRacingGreen
+201 174 116 Sandstone
+ 96  70  15 MudBrown
+152 246 176 LightSeaGreen
+138 241 254 RobinEggBlue
+ 46 232 187 AquaMarine
+ 17 135  93 DarkSeaGreen
+253 176 192 SoftPink
+177  96   2 OrangeyBrown
+247   2  42 CherryRed
+213 171   9 BurntYellow
+134 119  95 BrownishGrey
+198 159  89 Camel
+122 104 127 PurplishGrey
+  4  46  96 Marine
+200 141 148 GreyishPink
+165 251 213 PaleTurquoise
+255 254 113 PastelYellow
+ 98  65 199 BlueyPurple
+255 254  64 CanaryYellow
+211  73  78 FadedRed
+152  94  43 Sepia
+166 129  76 Coffee
+255   8 232 BrightMagenta
+157 118  81 Mocha
+254 255 202 Ecru
+152  86 141 Purpleish
+158   0  58 Cranberry
+ 40 124  55 DarkishGreen
+185 105   2 BrownOrange
+186 104 115 DuskyRose
+255 120  85 Melon
+148 178  28 SicklyGreen
+197 201 199 Silver
+102  26 238 PurplyBlue
+ 97  64 239 PurpleishBlue
+155 229 170 HospitalGreen
+123  88   4 ShitBrown
+ 39 106 179 MidBlue
+254 179   8 Amber
+140 253 126 EasterGreen
+100 136 234 SoftBlue
+  5 110 238 CeruleanBlue
+178 122   1 GoldenBrown
+ 15 254 249 BrightTurquoise
+250  42  85 RedPink
+130   7  71 RedPurple
+122 106  79 GreyishBrown
+244  50  12 Vermillion
+161  57   5 Russet
+111 130 138 SteelGrey
+165  90 244 LighterPurple
+173  10 253 BrightViolet
+  0  69 119 PrussianBlue
+101 141 109 SlateGreen
+202 123 128 DirtyPink
+  0  82  73 DarkBlueGreen
+ 43  93  52 Pine
+191 241  40 YellowyGreen
+181 148  16 DarkGold
+ 41 118 187 Bluish
+  1  65 130 DarkishBlue
+187  63  63 DullRed
+252  38  71 PinkyRed
+168 121   0 Bronze
+130 203 178 PaleTeal
+102 124  62 MilitaryGreen
+254  70 165 BarbiePink
+254 131 204 BubblegumPink
+148 166  23 PeaSoupGreen
+168 137   5 DarkMustard
+127  95   0 Shit
+158  67 162 MediumPurple
+  6  46   3 VeryDarkGreen
+138 110  69 Dirt
+204 122 139 DuskyPink
+158   1 104 RedViolet
+253 255  56 LemonYellow
+192 250 139 Pistachio
+238 220  91 DullYellow
+126 189   1 DarkLimeGreen
+ 59  91 146 DenimBlue
+  1 136 159 TealBlue
+ 61 122 253 LightishBlue
+ 95  52 231 PurpleyBlue
+109  90 207 LightIndigo
+116 133   0 SwampGreen
+112 108  17 BrownGreen
+ 60   0   8 DarkMaroon
+203   0 245 HotPurple
+  0  45   4 DarkForestGreen
+101 140 187 FadedBlue
+116 149  81 DrabGreen
+185 255 102 LightLimeGreen
+157 193   0 SnotGreen
+250 238 102 Yellowish
+126 251 179 LightBlueGreen
+123   0  44 Bordeaux
+194 146 161 LightMauve
+  1 123 146 Ocean
+252 192   6 Marigold
+101 116  50 MuddyGreen
+216 134  59 DullOrange
+115 133 149 Steel
+170  35 255 ElectricPurple
+  8 255   8 FluorescentGreen
+155 122   1 YellowishBrown
+242 158 142 Blush
+111 194 118 SoftGreen
+255  91   0 BrightOrange
+253 255  82 Lemon
+134 111 133 PurpleGrey
+143 254   9 AcidGreen
+238 207 254 PaleLavender
+ 81  10 201 VioletBlue
+ 79 145  83 LightForestGreen
+159  35   5 BurntRed
+114 134  57 KhakiGreen
+222  12  98 Cerise
+145 110 153 FadedPurple
+255 177 109 Apricot
+ 60  77   3 DarkOliveGreen
+127 112  83 GreyBrown
+119 146 111 GreenGrey
+  1  15 204 TrueBlue
+206 174 250 PaleViolet
+143 153 251 PeriwinkleBlue
+198 252 255 LightSkyBlue
+ 85  57 204 Blurple
+ 84  78   3 GreenBrown
+  1 122 121 Bluegreen
+  1 249 198 BrightTeal
+201 176   3 BrownishYellow
+146 153   1 PeaSoup
+ 11  85   9 Forest
+160   4 152 BarneyPurple
+ 32   0 177 Ultramarine
+148  86 140 Purplish
+194 190  14 PukeYellow
+116 139 151 BluishGrey
+102  95 209 DarkPeriwinkle
+156 109 165 DarkLilac
+196  66  64 Reddish
+162  72  87 LightMaroon
+130  95 135 DustyPurple
+201 100  59 TerraCotta
+144 177  52 Avocado
+  1  56 106 MarineBlue
+ 37 163 111 TealGreen
+ 89 101 109 SlateGrey
+117 253  99 LighterGreen
+ 33 252  13 ElectricGreen
+ 90 134 173 DustyBlue
+254 198  21 GoldenYellow
+255 253   1 BrightYellow
+223 197 254 LightLavender
+178 100   0 Umber
+127  94   0 Poop
+222 126  93 DarkPeach
+  4 130  67 JungleGreen
+255 255 212 Eggshell
+ 59  99 140 Denim
+183 148   0 YellowBrown
+132  89 126 DullPurple
+ 65  25   0 ChocolateBrown
+123   3  35 WineRed
+  4 217 255 NeonBlue
+102 126  44 DirtyGreen
+251 238 172 LightTan
+215 255 254 IceBlue
+ 78 116 150 CadetBlue
+135  76  98 DarkMauve
+213 255 255 VeryLightBlue
+130 109 140 GreyPurple
+255 186 205 PastelPink
+209 255 189 VeryLightGreen
+ 68 142 228 DarkSkyBlue
+  5  71  42 Evergreen
+213 134 157 DullPink
+ 61   7  52 Aubergine
+ 74   1   0 Mahogany
+248  72  28 ReddishOrange
+  2  89  15 DeepGreen
+137 162   3 VomitGreen
+224  63 216 PurplePink
+213 138 148 DustyPink
+123 178 116 FadedGreen
+ 82 101  37 CamoGreen
+201  76 190 PinkyPurple
+219  75 218 PinkPurple
+158  54  35 BrownishRed
+181  72  93 DarkRose
+115  92  18 Mud
+156 109  87 Brownish
+  2 143  30 EmeraldGreen
+177 145 110 PaleBrown
+ 73 117 156 DullBlue
+160  69  14 BurntUmber
+ 57 173  72 MediumGreen
+182 106  80 Clay
+140 255 219 LightAqua
+164 190  92 LightOliveGreen
+203 119  35 BrownishOrange
+  5 105 107 DarkAqua
+206  93 174 PurplishPink
+200  90  83 DarkSalmon
+150 174 141 GreenishGrey
+ 31 167 116 Jade
+122 151   3 UglyGreen
+172 147  98 DarkBeige
+  1 160  73 Emerald
+217  84  77 PaleRed
+250  95 247 LightMagenta
+130 202 252 Sky
+172 255 252 LightCyan
+252 176   1 YellowOrange
+145   9  81 ReddishPurple
+254  44  84 ReddishPink
+200 117 196 Orchid
+205 197  10 DirtyYellow
+253  65  30 OrangeRed
+154   2   0 DeepRed
+190 100   0 OrangeBrown
+  3  10 167 CobaltBlue
+254   1 154 NeonPink
+247 135 154 RosePink
+136 113 145 GreyishPurple
+176   1  73 Raspberry
+ 18 225 147 AquaGreen
+254 123 124 SalmonPink
+255 148   8 Tangerine
+106 110   9 BrownishGreen
+139  46  22 RedBrown
+105  97  18 GreenishBrown
+225 119   1 Pumpkin
+ 10  72  30 PineGreen
+ 52  56  55 Charcoal
+255 183 206 BabyPink
+106 121 247 Cornflower
+ 93   6 233 BlueViolet
+ 61  28   2 Chocolate
+130 166 125 GreyishGreen
+190   1  25 Scarlet
+201 255  39 GreenYellow
+ 55  62   2 DarkOlive
+169  86  30 Sienna
+202 160 255 PastelPurple
+202 102  65 Terracotta
+  2 216 233 AquaBlue
+136 179 120 SageGreen
+152   0   2 BloodRed
+203   1  98 DeepPink
+ 92 172  45 Grass
+118 153  88 Moss
+162 191 254 PastelBlue
+ 16 166 116 BluishGreen
+  6 180 139 GreenBlue
+175 136  74 DarkTan
+ 11 139 135 GreenishBlue
+255 167  86 PaleOrange
+162 164  21 Vomit
+ 21  68   6 ForrestGreen
+133 103 152 DarkLavender
+ 52   1  63 DarkViolet
+ 99  45 233 PurpleBlue
+ 10 136 138 DarkCyan
+111 118  50 OliveDrab
+212 106 126 Pinkish
+ 30  72 143 Cobalt
+188  19 254 NeonPurple
+126 244 204 LightTurquoise
+118 205  38 AppleGreen
+116 166  98 DullGreen
+128   1  63 Wine
+177 209 252 PowderBlue
+255 255 228 OffWhite
+  6  82 255 ElectricBlue
+  4  92  90 DarkTurquoise
+ 87  41 206 BluePurple
+  6 154 243 Azure
+255   0  13 BrightRed
+241  12  69 PinkishRed
+ 81 112 215 CornflowerBlue
+172 191 105 LightOlive
+108  52  97 Grape
+ 94 129 157 GreyishBlue
+ 96  30 249 PurplishBlue
+176 221  22 YellowishGreen
+205 253   2 GreenishYellow
+ 44 111 187 MediumBlue
+192 115 122 DustyRose
+214 180 252 LightViolet
+  2   0  53 MidnightBlue
+112  59 231 BluishPurple
+253  60   6 RedOrange
+150   0  86 DarkMagenta
+ 64 163 104 Greenish
+  3 113 156 OceanBlue
+252  90  80 Coral
+255 255 194 Cream
+127  43  10 ReddishBrown
+176  78  15 BurntSienna
+160  54  35 Brick
+135 174 115 Sage
+120 155 115 GreyGreen
+255 255 255 White
+152 239 249 RobinSEggBlue
+101 139  56 MossGreen
+ 90 125 154 SteelBlue
+ 56   8  53 Eggplant
+255 254 122 LightYellow
+ 92 169   4 LeafGreen
+216 220 214 LightGrey
+165 165   2 Puke
+214  72 215 PinkishPurple
+  4 116 149 SeaBlue
+183 144 212 PalePurple
+ 91 124 153 SlateBlue
+ 96 124 142 BlueGrey
+ 11  64   8 HunterGreen
+237  13 217 Fuchsia
+140   0  15 Crimson
+255 255 132 PaleYellow
+191 144   5 Ochre
+210 189  10 MustardYellow
+255  71  76 LightRed
+  4 133 209 Cerulean
+255 207 220 PalePink
+  4   2 115 DeepBlue
+168  60   9 Rust
+144 228 193 LightTeal
+ 81 101 114 Slate
+250 194   5 Goldenrod
+213 182  10 DarkYellow
+ 54  55  55 DarkGrey
+ 75  93  22 ArmyGreen
+107 139 164 GreyBlue
+128 249 173 Seafoam
+165 126  82 Puce
+169 249 113 SpringGreen
+198  81   2 DarkOrange
+226 202 118 Sand
+176 255 157 PastelGreen
+159 254 176 Mint
+253 170  72 LightOrange
+254   1 177 BrightPink
+193 248  10 Chartreuse
+ 54   1  63 DeepPurple
+ 52  28   2 DarkBrown
+185 162 129 Taupe
+142 171  18 PeaGreen
+154 174   7 PukeGreen
+  2 171  46 KellyGreen
+122 249 171 SeafoamGreen
+ 19 126 109 BlueGreen
+170 166  98 Khaki
+ 97   0  35 Burgundy
+  1  77  78 DarkTeal
+143  20   2 BrickRed
+ 75   0 110 RoyalPurple
+ 88  15  65 Plum
+143 255 159 MintGreen
+219 180  12 Gold
+162 207 254 BabyBlue
+192 251  45 YellowGreen
+190   3 253 BrightPurple
+132   0   0 DarkRed
+208 254 254 PaleBlue
+ 63 155  11 GrassGreen
+  1  21  62 Navy
+  4 216 178 Aquamarine
+192  78   1 BurntOrange
+ 12 255  12 NeonGreen
+  1 101 252 BrightBlue
+207  98 117 Rose
+255 209 223 LightPink
+206 179   1 Mustard
+ 56   2 130 Indigo
+170 255  50 Lime
+ 83 252 161 SeaGreen
+142 130 254 Periwinkle
+203  65 107 DarkPink
+103 122   4 OliveGreen
+255 176 124 Peach
+199 253 181 PaleGreen
+173 129  80 LightBrown
+255   2 141 HotPink
+  0   0   0 Black
+206 162 253 Lilac
+  0  17  70 NavyBlue
+  5   4 170 RoyalBlue
+230 218 166 Beige
+255 121 108 Salmon
+110 117  14 Olive
+101   0  33 Maroon
+  1 255   7 BrightGreen
+ 53   6  62 DarkPurple
+174 113 129 Mauve
+  6  71  12 ForestGreen
+ 19 234 201 Aqua
+  0 255 255 Cyan
+209 178 111 Tan
+  0   3  91 DarkBlue
+199 159 239 Lavender
+  6 194 172 Turquoise
+  3  53   0 DarkGreen
+154  14 234 Violet
+191 119 246 LightPurple
+137 254   5 LimeGreen
+146 149 145 Grey
+117 187 253 SkyBlue
+255 255  20 Yellow
+194   0 120 Magenta
+150 249 123 LightGreen
+249 115   6 Orange
+  2 147 134 Teal
+149 208 252 LightBlue
+229   0   0 Red
+101  55   0 Brown
+255 129 192 Pink
+  3  67 223 Blue
+ 21 176  26 Green
+126  30 156 Purple
